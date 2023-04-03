@@ -1,0 +1,16 @@
+
+*.pem
+*.dblwr
+*.000001
+DESKTOP-B65KLCT-bin.000002
+DESKTOP-B65KLCT-bin.index
+auto.cnf
+DESKTOP-B65KLCT-slow.log
+DESKTOP-B65KLCT.err
+DESKTOP-B65KLCT.pid
+ib_buffer_pool
+ibdata1
+ibtmp1
+mysql.ibd
+undo_001
+undo_002
